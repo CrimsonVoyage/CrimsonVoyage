@@ -6,10 +6,11 @@
 <h1 align="center">Hi There👋, I'm CrimsonVoyage</h1>
 
 <h3 align="center">I am, passionate 16 years old self taught full-stack developer from India, I am a lover of art, nature and music my speacialty is making logos, websites, web designs, web sites, photography and writing content, poems or stories. I have been learning web development from 5th grade 6 years</h3>
+<p align="center">⚠️This is my old account so I have removed some of my reposotories.⚠️</p>
 
   ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crimsonvoyage&label=Profile%20views&color=0e75b6&style=flat" alt="crimsonvoyage" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=crimsonvoyage&label=Profile%20views&color=0e75b6&style=flat" alt="crimsonvoyage" /> </p>
 
   
 
